@@ -20,3 +20,5 @@ The backbone of this application leverages the power of AWS services, including 
 3. Serverless Backend: Amazon DynamoDB acts as the reliable persistence layer for data storage, seamlessly integrated with our API’s Lambda function.
 
 4. RESTful API: The frontend, executed in the user’s browser, communicates with a public backend API built using Lambda and API Gateway, enabling dynamic data exchange.
+
+Please visit my website and read the entire post. https://petruclouds.com/build-a-serverless-web-application/
